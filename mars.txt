@@ -1,4 +1,4 @@
 cold dry but everything is my favorite color but this line is changed!
 the two moons may be a problem for wolfman!
 this is a change!!
-This is another, another, another change -SKLOMP
+This is another, another, another change -SKLOMP. Now we are going to cause conflict.
